@@ -16,4 +16,4 @@ Matériel :
 - [ ] Filtrage
 - [ ] Détection des pics R
 - [ ] Calcul de la fréquence cardiaque
-``
+
